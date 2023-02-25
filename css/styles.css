@@ -25,7 +25,7 @@ p {
     padding-right: 10px;
     background-color: bisque;
     background-image: url("https://dwz6kul9y5yls.cloudfront.net/wp-content/uploads/2023/02/My-project.jpg");
-    background-size: contain;
+    background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
