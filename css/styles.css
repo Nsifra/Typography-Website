@@ -7,35 +7,34 @@ body {
 
 h1 {
     font-size: 70px;
-    color:rgb(255, 255, 255);
-    text-shadow: 2px 2px rgb(0,0,0,0.4)
-    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px rgb(0, 0, 0, 0.4) font-family: 'Poppins', sans-serif;
     letter-spacing: 1.5px;
 }
+
 p {
-    font-family: 'Times New Roman', Times, serif
-    line-height: 24px;
+    font-family: 'Times New Roman', Times, serif line-height: 24px;
 }
 
 .homepage-hero {
-height: 240px;
-text-align: center;
-padding-top: 100px;
-padding-left: 10px;
-padding-right: 10px;
-background-color: bisque;
+    height: 240px;
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: bisque;
 }
 
 
 .main-container {
-text-align: center;
-width: 800px;
-margin: 0 auto;
-padding: 0 10px;
+    text-align: center;
+    width: 800px;
+    margin: 0 auto;
+    padding: 0 10px;
 }
 
 footer {
-background-color: antiquewhite;
-text-align: center;
-padding: 20px 0;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 20px 0;
 }
