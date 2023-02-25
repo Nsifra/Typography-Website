@@ -24,8 +24,8 @@ p {
     padding-left: 10px;
     padding-right: 10px;
     background-color: bisque;
-    background-image: url("https://smarthistory.org/wp-content/uploads/2022/08/detail-amrita_sher-gil-self-portrait_as_a_tahitian-1934-trivium-art-history.jpg");
-    background-size: cover;
+    background-image: url("https://images.hindustantimes.com/img/2021/07/14/1600x900/f68c4ad8-e47d-11eb-b5f3-e03811e5a235_1626251817806.jpeg");
+    background-size: contain;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
