@@ -27,12 +27,15 @@ background-color: bisque;
 }
 
 
-.main-container{
+.main-container {
+text-align: center;
 width: 800px;
 margin: 0 auto;
 padding: 0 10px;
 }
 
 footer {
-
+background-color: antiquewhite;
+text-align: center;
+padding: 20px 0;
 }
