@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(176, 150, 126);
+    background-color: rgb(202, 202, 202);
     margin: 0;
 }
 
@@ -23,7 +23,7 @@ p {
     padding-top: 100px;
     padding-left: 10px;
     padding-right: 10px;
-    background-color: grey;
+    background-color: whitesmoke;
     background-image: url("https://dwz6kul9y5yls.cloudfront.net/wp-content/uploads/2023/02/My-project.jpg");
     background-size: cover;
     background-attachment: fixed;
